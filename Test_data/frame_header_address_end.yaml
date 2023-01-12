@@ -1,0 +1,5 @@
+frame_header_address_end:
+  frame_header: \x02
+  frame_address_1: b'0'
+  frame_address_2: b'0'
+  frame_end: b'\03'

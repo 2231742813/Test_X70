@@ -1,0 +1,4 @@
+state_16 = "01C4"
+state_10 = int(state_16,16)
+Binary = '{:016b}'.format(state_10)
+print(Binary)
